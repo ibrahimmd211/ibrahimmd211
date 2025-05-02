@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate frontend developer from Manchester</h3>
+<h3 align="center">A passionate Devops Engineer from Manchester</h3>
 
-- 🔭 I’m currently working on **Kanban board react**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
